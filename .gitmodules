@@ -1,3 +1,3 @@
 [submodule "project_backend"]
 	path = project_backend
-	url = ./project_backend
+	url = git@github.com:jl-max/project_backend.git
